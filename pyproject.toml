@@ -19,6 +19,7 @@ hvplot = "^0.10.0"
 pyarrow = "^16.1.0"
 sdv = "^1.14.0"
 tqdm = "^4.66.4"
+bokeh = "^3.4.2"
 
 
 [build-system]
